@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\OBED\Documents\Fedevel Academy\DesignFiles\EmbedUno_V1I1\EmbedUno_PCB_V1I1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=embeduno_pcb_v1i1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=embeduno_pcb_v1i1-slotholes.txt|DrillLayers=gtl,gbl
