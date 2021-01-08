@@ -396,77 +396,25 @@ Variation5=Designator=JP2|UniqueId=\FGHFYRNF|Kind=1|AlternatePart=
 Variation6=Designator=R26|UniqueId=\TPIJCJHC|Kind=1|AlternatePart= 
 ParamVariationCount=81
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for EmbedUno_V1I1\Design Rule Check - EmbedUno_PCB_V1I1.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno BOM Purchasing-EmbedUno_V1I1(5V_3V3).xls
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno BOM Purchasing-EmbedUno_V1I1(FIXED 5V).xls
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno BOM Purchasing-EmbedUno_V1I1(FIXED 5V).xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno BOM Purchasing-EmbedUno_V1I1.xls
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\BOM\EmbedUno BOM Purchasing-EmbedUno_V1I1.xls
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\Embeduno Componed Reference grouped BOM-EmbedUno_V1I1(5V_3V3).xls
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\Embeduno Componed Reference grouped BOM-EmbedUno_V1I1(FIXED 5V).xls
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno Reference BOM-EmbedUno_V1I1(5V_3V3).xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno Reference BOM-EmbedUno_V1I1(FIXED 5V).xls
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno Reference BOM-EmbedUno_V1I1(FIXED 5V).xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for EmbedUno_V1I1\Pick Place\Pick Place for EmbedUno_PCB_V1I1(5V_3V3).txt
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for EmbedUno_V1I1\Pick Place\Pick Place for EmbedUno_PCB_V1I1(FIXED 5V).txt
-DItemRevisionGUID=
-
 [Parameter1]
-Name=VersionRevision
-Value=V1I1
+Name=Company
+Value=Embedsystem
 
 [Parameter2]
-Name=Title
-Value=EmbedUno
+Name=NotFitted
+Value=NF
 
 [Parameter3]
 Name=Project
 Value=EmbedUno
 
 [Parameter4]
-Name=NotFitted
-Value=NF
+Name=Title
+Value=EmbedUno
 
 [Parameter5]
-Name=Company
-Value=Embedsystem
+Name=VersionRevision
+Value=V1I1
 
 [Configuration1]
 Name=Sources
