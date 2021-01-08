@@ -227,11 +227,11 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=6
 Variation1=Designator=Y1|UniqueId=\WZLRQYKN|Kind=2|AlternatePart=ABM7-10.000MHZ-D2Y-T|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\OBED\Documents\Fedevel Academy\DesignFiles\EmbedUno_V1I1\EmbedUno_V1I1.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ABM7-10.000MHZ-D2Y-T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=EmbedUno_V1I1.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=ABM7-v1_1_Big|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Case/Package|VariantValue=SMD/SMT
+ParamVariation1=ParameterName=Comment|VariantValue=ABM7-10.000MHZ-D2Y-T
 ParamDesignator1=Y1
-ParamVariation2=ParameterName=Category|VariantValue=Crystals
+ParamVariation2=ParameterName=Case/Package|VariantValue=SMD/SMT
 ParamDesignator2=Y1
-ParamVariation3=ParameterName=Comment|VariantValue=ABM7-10.000MHZ-D2Y-T
+ParamVariation3=ParameterName=Category|VariantValue=Crystals
 ParamDesignator3=Y1
 ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator4=Y1
@@ -288,11 +288,11 @@ ParamDesignator29=Y1
 ParamVariation30=ParameterName=Supplier Part Number 1|VariantValue=535-9833-1-ND
 ParamDesignator30=Y1
 Variation2=Designator=Y2|UniqueId=\TPKBIUUG|Kind=2|AlternatePart=ABM7-8.000MHZ-D2Y-T|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\OBED\Documents\Fedevel Academy\DesignFiles\EmbedUno_V1I1\EmbedUno_V1I1.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ABM7-8.000MHZ-D2Y-T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=EmbedUno_V1I1.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=ABM7-v1_1_Big|AltLibLink_IsSameFootprint=True
-ParamVariation31=ParameterName=Case/Package|VariantValue=CSMD
+ParamVariation31=ParameterName=Comment|VariantValue=ABM7-8.000MHZ-D2Y-T
 ParamDesignator31=Y2
-ParamVariation32=ParameterName=Category|VariantValue=Crystals
+ParamVariation32=ParameterName=Case/Package|VariantValue=CSMD
 ParamDesignator32=Y2
-ParamVariation33=ParameterName=Comment|VariantValue=ABM7-8.000MHZ-D2Y-T
+ParamVariation33=ParameterName=Category|VariantValue=Crystals
 ParamDesignator33=Y2
 ParamVariation34=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator34=Y2
@@ -401,32 +401,72 @@ DocumentPath=Project Outputs for EmbedUno_V1I1\Design Rule Check - EmbedUno_PCB_
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno BOM Purchasing-EmbedUno_V1I1.xls
+DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno BOM Purchasing-EmbedUno_V1I1(5V_3V3).xls
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno BOM Purchasing-EmbedUno_V1I1(FIXED 5V).xls
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno BOM Purchasing-EmbedUno_V1I1(FIXED 5V).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno BOM Purchasing-EmbedUno_V1I1.xls
+DItemRevisionGUID=
+
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Free Documents\BOM\EmbedUno BOM Purchasing-EmbedUno_V1I1.xls
 DItemRevisionGUID=
 
+[GeneratedDocument7]
+DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\Embeduno Componed Reference grouped BOM-EmbedUno_V1I1(5V_3V3).xls
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\Embeduno Componed Reference grouped BOM-EmbedUno_V1I1(FIXED 5V).xls
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno Reference BOM-EmbedUno_V1I1(5V_3V3).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno Reference BOM-EmbedUno_V1I1(FIXED 5V).xls
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for EmbedUno_V1I1\BOM\EmbedUno Reference BOM-EmbedUno_V1I1(FIXED 5V).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for EmbedUno_V1I1\Pick Place\Pick Place for EmbedUno_PCB_V1I1(5V_3V3).txt
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for EmbedUno_V1I1\Pick Place\Pick Place for EmbedUno_PCB_V1I1(FIXED 5V).txt
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Company
-Value=Embedsystem
+Name=VersionRevision
+Value=V1I1
 
 [Parameter2]
-Name=NotFitted
-Value=NF
+Name=Title
+Value=EmbedUno
 
 [Parameter3]
 Name=Project
 Value=EmbedUno
 
 [Parameter4]
-Name=Title
-Value=EmbedUno
+Name=NotFitted
+Value=NF
 
 [Parameter5]
-Name=VersionRevision
-Value=V1I1
+Name=Company
+Value=Embedsystem
 
 [Configuration1]
 Name=Sources
@@ -437,6 +477,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

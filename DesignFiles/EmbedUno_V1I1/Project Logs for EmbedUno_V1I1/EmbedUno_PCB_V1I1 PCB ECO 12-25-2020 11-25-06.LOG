@@ -1,6 +1,0 @@
-Added Pin To Net: NetName=3V3 Pin=C16-2
-Added Pin To Net: NetName=3V3 Pin=J1-4
-Change Net Name : Old Net Name=3V3 New Net Name=+3V3
-Change Net Color : Old Net Color=RGB(218, 36, 103) New Net Color=Default
-Change Net Color : Old Net Color=RGB(253, 131, 0) New Net Color=Default
-Change Net Color : Old Net Color=RGB(0, 0, 191) New Net Color=Default
